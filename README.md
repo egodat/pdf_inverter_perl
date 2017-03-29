@@ -1,1 +1,1 @@
-# pdf_inverter_perl
+# Usage: invert.perl input.pdf output.pdf
